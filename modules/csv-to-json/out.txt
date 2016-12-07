@@ -1,3 +1,0 @@
-Letter,Color
-A,blAck
-B,Blue
